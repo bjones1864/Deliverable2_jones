@@ -21,7 +21,7 @@ namespace Deliverable2
                 int userScore = 0;
 
                 //1 is heads, 0 is tails
-                for (int i = 0; i < 10; i++)
+                for (int i = 0; i < 5; i++)
                 {
                     Console.WriteLine("Heads or Tails?: ");
                     string wager = Console.ReadLine();
